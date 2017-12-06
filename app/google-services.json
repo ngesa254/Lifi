@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "192075889343",
+    "firebase_url": "https://edison-42238.firebaseio.com",
+    "project_id": "edison-42238",
+    "storage_bucket": "edison-42238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192075889343:android:5012d953dfd9ca5e",
+        "android_client_info": {
+          "package_name": "com.example.user.lifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192075889343-duq7gfrb4su27kstvko43ue1t195pic1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.lifi",
+            "certificate_hash": "56d77837efdcf6bf36accb5cc3b244382253da0d"
+          }
+        },
+        {
+          "client_id": "192075889343-t6pktinrl5j3uuisisdcq272ubeuf832.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQ_JcWgMhKBcgRoXkINgZKQec2XsVnF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192075889343-t6pktinrl5j3uuisisdcq272ubeuf832.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
